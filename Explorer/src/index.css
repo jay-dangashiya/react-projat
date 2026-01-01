@@ -1,0 +1,60 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Card */
+.card {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+/* Image */
+.top img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+/* Content */
+.center {
+  padding: 15px;
+  text-align: center;
+}
+
+.center h1 {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 6px;
+}
+
+.center p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* Buttons */
+.bottom {
+  display: flex;
+  gap: 10px;
+  padding: 15px;
+}
+
+.bottom button {
+  flex: 1;
+  padding: 8px 0;
+  border: 1px solid #888;
+  background-color: #f2f2f2;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.bottom button:hover {
+  background-color: #ddd;
+}
