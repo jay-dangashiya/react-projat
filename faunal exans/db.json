@@ -1,0 +1,149 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Classic Margherita Pizza",
+      "description": "A traditional Italian pizza with fresh tomatoes, mozzarella, and basil",
+      "ingredients": [
+        "Pizza dough",
+        "Fresh mozzarella cheese",
+        "Fresh tomatoes",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ],
+      "instructions": "Preheat oven to 475°F. Roll out dough, add sauce and cheese. Bake for 10-12 minutes. Top with fresh basil.",
+      "category": "Italian",
+      "dietary": "Vegetarian",
+      "prepTime": "30 min",
+      "cookTime": "15 min",
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=400",
+      "dateAdded": "2024-01-15T10:30:00Z",
+      "userId": "demo"
+    },
+    {
+      "id": "2",
+      "title": "Grilled Chicken Salad",
+      "description": "Healthy and delicious grilled chicken salad with fresh vegetables",
+      "ingredients": [
+        "Chicken breast",
+        "Mixed greens",
+        "Cherry tomatoes",
+        "Cucumber",
+        "Red onion",
+        "Olive oil",
+        "Lemon juice"
+      ],
+      "instructions": "Grill chicken until cooked. Chop vegetables and toss with greens. Top with sliced chicken. Drizzle with olive oil and lemon.",
+      "category": "Salad",
+      "dietary": "Gluten-Free",
+      "prepTime": "15 min",
+      "cookTime": "20 min",
+      "servings": 2,
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+      "dateAdded": "2024-01-20T14:00:00Z",
+      "userId": "demo"
+    },
+    {
+      "id": "3",
+      "title": "Chocolate Chip Cookies",
+      "description": "Classic homemade chocolate chip cookies - soft and chewy",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 cup butter (softened)",
+        "3/4 cup sugar",
+        "3/4 cup brown sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1 tsp baking soda",
+        "2 cups chocolate chips"
+      ],
+      "instructions": "Preheat oven to 375°F. Cream butter and sugars. Add eggs and vanilla. Mix flour, baking soda and salt. Fold in chocolate chips. Bake 9-11 minutes.",
+      "category": "Dessert",
+      "dietary": "Vegetarian",
+      "prepTime": "15 min",
+      "cookTime": "11 min",
+      "servings": 24,
+      "imageUrl": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400",
+      "dateAdded": "2024-02-01T09:00:00Z",
+      "userId": "demo"
+    },
+    {
+      "id": "4",
+      "title": "Vegetable Stir Fry",
+      "description": "Quick and healthy Asian-inspired vegetable stir fry",
+      "ingredients": [
+        "Broccoli florets",
+        "Bell peppers",
+        "Carrots",
+        "Snap peas",
+        "Soy sauce",
+        "Sesame oil",
+        "Ginger",
+        "Garlic",
+        "Rice"
+      ],
+      "instructions": "Heat sesame oil in wok. Add ginger and garlic. Stir fry vegetables until crisp-tender. Add soy sauce. Serve over rice.",
+      "category": "Asian",
+      "dietary": "Vegan",
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400",
+      "dateAdded": "2024-02-10T18:00:00Z",
+      "userId": "demo"
+    },
+    {
+      "id": "5",
+      "title": "Beef Tacos",
+      "description": "Flavorful beef tacos with fresh toppings",
+      "ingredients": [
+        "Ground beef",
+        "Taco seasoning",
+        "Taco shell",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar cheese",
+        "Sour cream",
+        "Salsa"
+      ],
+      "instructions": "Brown ground beef. Add taco seasoning and water. Simmer until thickened. Fill taco shells with beef. Top with lettuce, tomatoes, cheese, sour cream, and salsa.",
+      "category": "Mexican",
+      "dietary": "Gluten-Free",
+      "prepTime": "10 min",
+      "cookTime": "15 min",
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=400",
+      "dateAdded": "2024-02-15T12:00:00Z",
+      "userId": "demo"
+    },
+    {
+      "id": "6",
+      "title": "Mushroom Risotto",
+      "description": "Creamy Italian risotto with mixed mushrooms",
+      "ingredients": [
+        "Arborio rice",
+        "Mixed mushrooms",
+        "Vegetable broth",
+        "White wine",
+        "Parmesan cheese",
+        "Butter",
+        "Onion",
+        "Garlic",
+        "Fresh thyme"
+      ],
+      "instructions": "Sauté mushrooms and set aside. Cook onion and garlic. Add rice and toast. Add wine and broth gradually. Stir in mushrooms, parmesan, and butter.",
+      "category": "Italian",
+      "dietary": "Vegetarian",
+      "prepTime": "10 min",
+      "cookTime": "30 min",
+      "servings": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=400",
+      "dateAdded": "2024-02-20T19:00:00Z",
+      "userId": "demo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

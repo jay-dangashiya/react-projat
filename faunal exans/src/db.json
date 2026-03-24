@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "price": 50000,
+      "image": "https://via.placeholder.com/150",
+      "category": "Electronics"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
